@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CBA87B0B23F544F1006CFCD2 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBA87B0A23F544F1006CFCD2 /* DetailVC.swift */; };
 		CBD81F2723F493C200EDF39B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD81F2623F493C200EDF39B /* AppDelegate.swift */; };
 		CBD81F2923F493C200EDF39B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD81F2823F493C200EDF39B /* SceneDelegate.swift */; };
 		CBD81F2B23F493C200EDF39B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD81F2A23F493C200EDF39B /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CBA87B0A23F544F1006CFCD2 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 		CBD81F2323F493C200EDF39B /* TableViewProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBD81F2623F493C200EDF39B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CBD81F2823F493C200EDF39B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				CBD81F2623F493C200EDF39B /* AppDelegate.swift */,
 				CBD81F2823F493C200EDF39B /* SceneDelegate.swift */,
 				CBD81F2A23F493C200EDF39B /* ViewController.swift */,
+				CBA87B0A23F544F1006CFCD2 /* DetailVC.swift */,
 				CBD81F2C23F493C200EDF39B /* Main.storyboard */,
 				CBD81F2F23F493C500EDF39B /* Assets.xcassets */,
 				CBD81F3123F493C500EDF39B /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBD81F2B23F493C200EDF39B /* ViewController.swift in Sources */,
+				CBA87B0B23F544F1006CFCD2 /* DetailVC.swift in Sources */,
 				CBD81F2723F493C200EDF39B /* AppDelegate.swift in Sources */,
 				CBD81F2923F493C200EDF39B /* SceneDelegate.swift in Sources */,
 			);
